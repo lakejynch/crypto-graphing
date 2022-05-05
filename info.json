@@ -1,0 +1,113 @@
+{
+	"Gaming":{
+		"Mobile & Freemium":null,
+		"MMO":null,
+		"Battleground":null,
+		"Dueling":null
+	},
+	"Culture":{
+		"Music":null,
+		"Art & Collectibles":{
+			"1-of-1":null,
+			"PFPs":null,
+			"Generative Art":null
+		},
+		"Fashion & Wearables":null,
+		"Property":null,
+		"Social Media":null
+	},
+	"DeFi":{
+		"Derivatives":{
+			"Options":null,
+			"Futures & Perps":null,
+			"Indices":null,
+			"Predictions & Betting Markets":null
+		},
+		"Decentralized Exchange":{
+			"AMM":{
+				"CFMM":null,
+				"Other":null
+			},
+			"P2P":null,
+			"Orderbook":null
+		},
+		"Money Market":{
+			"Uncollateralized & Permissioned":null,
+			"CDP":null
+		},
+		"Yield":{
+			"Optimizers":null,
+			"Strategies":null
+		},
+		"Insurance":null
+	},
+	"Currency":{
+		"Pegged Currency":{
+			"Algorithmic Stable":null,
+			"Backed Stable":null,
+			"Hybrid Algo-Stable":null
+		},
+		"Privacy Currency":null,
+		"Cryptocurrency":null
+	},
+	"Virtual Machine":{
+		"Layer 1":{
+			"POS":null,
+			"POW":null,
+			"Other":null
+		},
+		"Layer 2":{
+			"Rollup":{
+				"Zero Knowledge":null,
+				"Optimistic":null
+			},
+			"Bridge":{
+				"Natively Verified":null,
+				"Externally Verified":null,
+				"Locally Verified":null
+			},
+			"Validiums & Volitions":null
+		}
+	},
+	"Computing":{
+		"IoT":null,
+		"Processing & Rendering":null,
+		"Storage":null
+	},
+	"Infrastructure & Middleware":{
+		"Data":null,
+		"Cryptography":null,
+		"Wallets":null
+	},
+	"CeFi":{
+		"Exchanges":{
+			"Derivatives":null,
+			"Spot":null
+		},
+		"Money Markets":{
+			"OTC":null,
+			"Retial":null
+		},
+		"Institutional Custodians":null,
+		"Funds":{
+			"Market Neutral":{
+				"MEV":null,
+				"Basis Trading":null,
+				"Yield Farming":null,
+				"Market Makers":null
+			},
+			"Directional":{
+				"Venture Funds":{
+					"Liquid Venture":null,
+					"Preseed & Seed Stage":null,
+					"Growth Stage":null,
+					"Megafund":null
+				},
+				"Hedge Funds":{
+					"Momentum":null,
+					"Discretionary":null
+				}
+			}
+		}
+	}
+}
